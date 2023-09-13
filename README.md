@@ -2,7 +2,7 @@
 
 ## Description
 
-Learning to code can be a daunting task, especially for those with little to no background on the subject. This is why I developed this web page; to re-learn the basics of web design that I have forgotten over the years. This very basic program does a great job of laying out the core structure of HTML, CSS, and JaveScript syntax and gives the user a brief introduction to the languages of the internet. Prior to this project, I had the basics of HTML and CSS lying somewhere in the back of my brain, dusty no doubt. But this was my first experience with JavaScript and I'm excited to dive in!
+Learning to code can be a daunting task, especially for those with little to no background on the subject. This is why I developed this web page; to re-learn the basics of web design that I have forgotten over the years. This very basic application does a great job of laying out the core structure of HTML, CSS, and JaveScript syntax and gives the user a brief introduction to the languages of the internet. Prior to this project, I had the basics of HTML and CSS lying somewhere in the back of my brain, dusty no doubt. But this was my first experience with JavaScript and I'm excited to dive in!
 
 ## Installation
 
