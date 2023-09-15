@@ -1,0 +1,30 @@
+Trouble shooting 404 page not found for my github page 				Current date: September 15, 2023
+
+When attempting to deploy no error message was recieved, nothing changed in the repo. I clicked save after selecting the source, and nothing happened.
+Repo contains an index.html file, all spelling is accurate. No spaces left in the name of the files.
+Reviewed GitHub's guides for deploying and configuring the publishing source, ensured I wasn't missing any steps or doing anything incorrectly.
+
+Used the Xpert Learning Assistant:
+
+Main branch is current and up to date with the latest version of project code
+GitHub pages is set to deploy from the main branch from the folder
+All file paths and naming conventions are accurate, verified by the fact that I can run the code, display it in the browser and view the page locally.
+I deployed the page Wednesday, September 13, so I would assume enough time has passed for the site to be built.
+
+Referred to the GitHub pages support page and followed their troubleshooting 404 errors guide:
+
+GitHub's status page reports no incidents and all systems report as operational
+Repository meets all requirements to deploy
+
+Searched through GitHub community discussions for similar issues:
+Found more 404 troubleshooting guides, most the information was more of the same
+
+
+To try next ??
+Create a new branch and change publishing source to new branch instead of main
+Create a /docs folder, move my files, update and verify links, change publishing source to /docs instead of /(root)
+Create new repo and push my files there
+
+
+Created new branch named 'deploy-branch'. No changes were made to the files or directory, I simply pulled the main branch local, created new branch, commited and push the files. Then changed publishing source to 'deploy-branch', page loads, no 404. Not sure why page would not deploy from the main branch.
+
